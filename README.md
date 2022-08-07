@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Olivier's github stats](https://github-readme-stats.vercel.app/api?username=olivier-kango)](https://github.com/olivier-kango/github-readme-stats)
+
 <!--
 **olivier-kango/olivier-kango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
