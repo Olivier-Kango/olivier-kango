@@ -3,7 +3,7 @@
 <!-- [![Olivier's github stats](https://github-readme-stats.vercel.app/api?username=Olivier-Kango)](https://github.com/Olivier-Kango/github-readme-stats) -->
 [![Olivier's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=olivier-kango&count_private=true&include_all_commits=true&hide=contribs&show_icons=true)](https://github.com/olivier-kango)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivier-Kango)](https://github.com/Olivier-Kango/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivier-Kango)](https://github.com/Olivier-Kango/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olivier-Kango)](https://git.io/streak-stats)
 
