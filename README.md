@@ -4,7 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivier-kango)](https://github.com/olivier-kango/github-readme-stats) 
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=olivier-kango)](https://git.io/streak-stats) -->
 
 <!--
 **olivier-kango/olivier-kango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
