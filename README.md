@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![Olivier's github stats](https://github-readme-stats.vercel.app/api?username=olivier-kango)](https://github.com/olivier-kango/github-readme-stats)
-![Olivier's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivier-kango&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivier-kango)](https://github.com/olivier-kango/github-readme-stats) 
 
